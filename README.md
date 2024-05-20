@@ -1,1 +1,1 @@
-# WP-Scroll-Top
+# Scroll Top
